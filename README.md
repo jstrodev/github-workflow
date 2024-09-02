@@ -1,2 +1,2 @@
 # github-workflow
-There is nothing permenant, except change
+To improve is to change
